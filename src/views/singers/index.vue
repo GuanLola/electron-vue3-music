@@ -1,0 +1,8 @@
+<template>
+  歌手
+</template>
+
+<script setup>
+</script>
+<style lang='scss' scoped>
+</style>
